@@ -1,0 +1,18 @@
+E:\Programowanie wizualne\Nowy folder5\projekt 4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Programowanie wizualne\Nowy folder5\projekt 4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Programowanie wizualne\Nowy folder5\projekt 4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Programowanie wizualne\Nowy folder5\projekt 4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Programowanie wizualne\Nowy folder5\projekt 4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Programowanie wizualne\Nowy folder5\projekt 4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Programowanie wizualne\Nowy folder5\projekt 4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Programowanie wizualne\Nowy folder5\projekt 4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Programowanie wizualne\Nowy folder5\projekt 4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\studia\rok 3\semestr 5\Programowanie wizualne\Moje laboratorium\J.Kuziemska kalkulator\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\studia\rok 3\semestr 5\Programowanie wizualne\Moje laboratorium\J.Kuziemska kalkulator\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\studia\rok 3\semestr 5\Programowanie wizualne\Moje laboratorium\J.Kuziemska kalkulator\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\studia\rok 3\semestr 5\Programowanie wizualne\Moje laboratorium\J.Kuziemska kalkulator\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\studia\rok 3\semestr 5\Programowanie wizualne\Moje laboratorium\J.Kuziemska kalkulator\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\studia\rok 3\semestr 5\Programowanie wizualne\Moje laboratorium\J.Kuziemska kalkulator\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\studia\rok 3\semestr 5\Programowanie wizualne\Moje laboratorium\J.Kuziemska kalkulator\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\studia\rok 3\semestr 5\Programowanie wizualne\Moje laboratorium\J.Kuziemska kalkulator\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\studia\rok 3\semestr 5\Programowanie wizualne\Moje laboratorium\J.Kuziemska kalkulator\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
